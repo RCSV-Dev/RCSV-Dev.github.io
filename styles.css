@@ -25,6 +25,13 @@ img {
     height: auto;
 }
 
+.crudely-placed-images img {
+    max-width: 40%;
+    height: auto;
+    margin: 1em;
+    display: inline-block;
+}
+
 footer {
     background-color: #4CAF50;
     color: white;
